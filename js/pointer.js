@@ -1,4 +1,7 @@
-// https://codepen.io/sarahwfox/pen/pNrYGb
+/*
+ * Created by @sarahwfox 
+ * Posted on CodePen https://codepen.io/sarahwfox/pen/pNrYGb
+ */
 var colour="random"; // "random" can be replaced with any valid colour ie: "red"...
 var sparkles=100;// increase of decrease for number of sparkles falling
 
