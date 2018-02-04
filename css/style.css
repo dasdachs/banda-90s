@@ -7,21 +7,50 @@ body {
   background-repeat: repeat;
   font-family: "Comic Sans","Comic Sans MS","Chalkboard","ChalkboardSE-Regular","Marker Felt","Purisa","URW Chancery L",cursive,sans-serif;
 }
+.background-repeat {
+  background-repeat: repeat;
+}
 header {
   background-image:url('../img/stars.gif');
-  background-repeat: repeat;
   border: 1px solid #b6b2a3;
   margin: 10px auto;
   padding: 20px;
   width: 80%;
 }
+
 .awards {
   margin: 20px 30px;
 }
+.gig {
+  background-image:url('../img/beach.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  margin: 30px auto;
+  padding: 40px;
+  font-size: 30px;
+  width: 40%;
+}
+.indent {
+  color: #FFff00;
+  text-indent: 30px;
+}
+.flames {
+  background-image:url('../img/flames.gif');
+  background-repeat: repeat-x;
+  height: 60px;
+  margin: 10px auto;
+  width: 90%;
+}
+.next-gig {
+  background-image:url('../img/colors.gif');
+}
 .description {
   background-image:url('../img/content-background.jpg');
-  background-repeat: repeat;
   margin: 40px auto;
   padding: 30px;
   width: 90%;
 }
+footer {
+  margin:20px auto;
+  width: 70%;
